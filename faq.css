@@ -51,7 +51,7 @@ li a:hover::after{
     text-transform: uppercase;
     border-radius: 40px;
 }
-
+/* Everything above can be copy/paste into another css file to keep the header style in tact */
 main{
     display: flex;
     height:calc(100vh - 100px);
