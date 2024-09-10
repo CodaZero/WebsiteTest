@@ -68,3 +68,9 @@ main{
 ul{
     padding:0 50px;
 }
+
+main h1{
+    font-size:54px;
+    color:rgb(136, 136, 255);
+    text-transform: uppercase;
+}
