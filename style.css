@@ -87,6 +87,7 @@ main p{
     font-weight: 700;
     text-transform: uppercase;
     border-radius: 40px;
+    text-decoration: none;
 }
 
 .signup-btn{
@@ -98,4 +99,8 @@ main p{
     font-weight: 700;
     text-transform: uppercase;
     border-radius: 40px;
+}
+
+.cta a:visited{
+    color:white
 }
