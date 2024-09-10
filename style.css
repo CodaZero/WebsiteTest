@@ -104,3 +104,7 @@ main p{
 .cta a:visited{
     color:white
 }
+
+.cta a:link{
+    color:white
+}
